@@ -1,0 +1,7 @@
+{
+       "name": "Provon",
+       "token": "ODEyMTczNzE0MDgyMjM0Mzk5.YC85tg.UTu6_cJxU81PEwn8K6pIqnEsarg",
+       "MONGODB_URI": "mongodb+srv://PranavaAmirdanP:Pp__Pp__14102006@provon-bot.9t68s.mongodb.net/Provon",
+       "MONGODB_URI2": "mongodb+srv://PranavaAmirdanP:Pp__Pp__14102006@provon-bot.9t68s.mongodb.net/Provon?ssl=true&replicaSet=Main-shard-0&authSource=admin&retryWrites=true",
+       "prefix": "."
+}
